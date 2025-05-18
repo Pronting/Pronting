@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Pronting</h1>
+<h1 align="center">Hi 👋, I'm Pront</h1>
 
 
 * 🔭  [个人博客](https://www.cnblogs.com/pronting)
