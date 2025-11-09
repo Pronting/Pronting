@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Pront</h1>
-
-
-* 🔭  [个人博客](https://www.cnblogs.com/pronting)
+<h1 align="center">Hi 👋</h1>
 
 
 ## 今年汇总✅
