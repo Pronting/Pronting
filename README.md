@@ -17,15 +17,14 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋</h1>
 
+## 常用语言
 
-## 今年汇总✅
+[![My Skills](https://skillicons.dev/icons?i=java,python,js)](https://skillicons.dev)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pronting&show_icons=true" height="200" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pronting&layout=compact" height="200" alt="languages"/>
-</p>
+## 历史汇总
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pronting)](https://git.io/streak-stats)
 
 
-## 活跃度统计⚡
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pronting)
+## 联系我
+realpront@outlook.com
