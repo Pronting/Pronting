@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 #### my site
 * [pront-site](https://www.cnblogs.com/pronting) 博客网站
-* [ishwe](http://106.53.173.60:8080/)  eisenhower](https://github.com/Pronting/eisenhower) 线上体验网址
+* [ishwe](http://106.53.173.60:8080/)  vibe coding 小作品线上体验网址
 
 
 #### contact me
