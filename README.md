@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 #### my site
-* [pront-site](https://www.cnblogs.com/pronting) My Blog websites
+* [Logos](https://pront.site) My Blog websites
 * [ishwe](http://106.53.173.60:8080/) Vibe Coding mini-project online experience link
 
 
