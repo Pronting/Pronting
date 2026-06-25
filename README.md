@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 
 #### My open-source project
-* [eisenhower](https://github.com/Pronting/eisenhower) 轻量化的任务推送系统，支持多端
-* [mallchat](https://github.com/Pronting/mallchat) 一个web IM系统，支持常见功能
+* [eisenhower](https://github.com/Pronting/eisenhower) Lightweight task push system, compatible with multiple devices   
+* [mallchat](https://github.com/Pronting/mallchat) A web-based IM system that supports common features
 
 
 #### Open-source projects I participate in
-* [Agent-Sentinel](https://github.com/if5561/Agent-Sentinel) 一个agent监控系统，推送飞书
+* [Agent-Sentinel](https://github.com/if5561/Agent-Sentinel) An agent monitoring system that pushes messages to Lark.
 
 
 #### history
@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 
 
 #### my site
-* [pront-site](https://www.cnblogs.com/pronting) 博客网站
-* [ishwe](http://106.53.173.60:8080/)  vibe coding 小作品线上体验网址
+* [pront-site](https://www.cnblogs.com/pronting) My Blog websites
+* [ishwe](http://106.53.173.60:8080/) Vibe Coding mini-project online experience link
 
 
 #### contact me
